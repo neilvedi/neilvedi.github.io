@@ -1,5 +1,5 @@
 ---
-title: "neilvedi.github.io"
+title: "Neil's Corner of the Internet"
 listing:
   contents: posts
   sort: "date desc"
