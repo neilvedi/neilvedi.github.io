@@ -8,12 +8,12 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/neilvedi
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/neil_chaturvedi
 format:
   html:
-    theme: cosmo
+    theme: yeti
     css: styles.css
 
 editor: visual
