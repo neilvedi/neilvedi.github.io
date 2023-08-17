@@ -13,7 +13,6 @@ about:
     - icon: github
       text: Github
       href: https://github.com
-
 ---
 
-About this blog
+Hi! I'm Neil - I'm 19, and I'm currently a junior at BITS Pilani. I'm majoring in Electronics and Communications Engineering, but I'm also very interested in Computer Science, Quantum Computing, Mathematics, Physics, Cosmology, Biology, Palaeontology and Archaeology.
