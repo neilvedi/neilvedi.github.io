@@ -1,5 +1,5 @@
 ---
-title: "Neil's Corner of the Internet"
+title: "Home"
 listing:
   contents: posts
   sort: "date desc"

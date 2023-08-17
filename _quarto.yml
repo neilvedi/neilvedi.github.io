@@ -6,6 +6,7 @@ website:
   title: "neilvedi.github.io"
   navbar:
     right:
+      - index.qmd
       - about.qmd
       - icon: github
         href: https://github.com/neilvedi
