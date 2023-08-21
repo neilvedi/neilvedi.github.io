@@ -3,10 +3,11 @@ project:
   output-dir: docs
 
 website:
-  title: "neilvedi.github.io"
+  title: "Neil Chaturvedi"
   navbar:
     right:
-      - index.qmd
+      - text: "Home"
+        file: index.qmd
       - about.qmd
       - icon: github
         href: https://github.com/neilvedi
@@ -14,7 +15,7 @@ website:
         href: https://twitter.com/neil_chaturvedi
 format:
   html:
-    theme: yeti
+    theme: darkly
     css: styles.css
 
 editor: visual
