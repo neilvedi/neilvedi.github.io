@@ -11,10 +11,10 @@ page-layout: full
 title-block-banner: true
 ---
 
-::: {.profile-header layout="[21,79]"}
-![](profile-circle.png){.profile-pic}
+<div>
 
 Hi! I'm Neil - I'm 20 years old, and I'm currently a junior at BITS Pilani majoring in Electronics and Communications Engineering. I'm generally interested in Mathematics and the Sciences, and this website is a glimpse into my attempts to make sense of the world. Contact details are available on my about page - I hope you enjoy your stay!
-:::
+
+</div>
 
 ------------------------------------------------------------------------
