@@ -13,7 +13,7 @@ title-block-banner: true
 
 <div>
 
-Hi! I'm Neil - I'm 20 years old, and I'm currently a junior at BITS Pilani majoring in Electronics and Communications Engineering. I'm generally interested in Mathematics and the Sciences, and this website is a glimpse into my attempts to make sense of the world. Contact details are available on my about page - I hope you enjoy your stay!
+Hi! I'm Neil - I'm 20 years old, and I'm currently a junior at BITS Pilani majoring in Electronics and Communications Engineering. I'm generally interested in Mathematics and the Sciences, and this website is a glimpse into my attempts to make sense of the world. I hope you enjoy your stay!
 
 </div>
 
