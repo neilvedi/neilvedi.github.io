@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Neil Chaturvedi"
+  site-url: https://neilvedi.github.io
+  description: "Neil's Corner of the Internet"
   navbar:
     right:
       - text: "Home"
@@ -13,6 +15,8 @@ website:
         href: https://github.com/neilvedi
       - icon: twitter
         href: https://twitter.com/neil_chaturvedi
+      - icon: rss
+        href: index.xml
 format:
   html:
     theme: flatly
