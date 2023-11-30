@@ -6,7 +6,7 @@ about:
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com/neil_chaturvedi
+      href: https://twitter.com/starshipneil
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/in/neilchaturvedi
@@ -15,4 +15,4 @@ about:
       href: https://github.com/neilvedi
 ---
 
-Hi! I'm Neil - I'm 20, and I'm currently a junior at BITS Pilani. I'm majoring in Electronics and Communications Engineering, but I'm also very interested in Computer Science, Quantum Computing, Mathematics, Physics, Cosmology, Biology, Palaeontology and Archaeology.
+Hi! I'm Neil - I'm 20, and I'm currently a junior at BITS Pilani. I'm majoring in Electronics and Communications Engineering, but I'm also very interested in Machine Learning, Quantum Computing, Mathematics, Physics, Cosmology, Biology, Palaeontology and Archaeology.
