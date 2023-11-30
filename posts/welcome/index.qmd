@@ -1,12 +1,12 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2023-08-14"
-categories: [news]
+author: "Neil Chaturvedi"
+date: "2023-10-30"
+categories: [meta]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Hi! I'm Neil - welcome to my blog! I'll be sharing my learnings over here - I think blogs are the modern day equivalent of Ramanujan's notebooks he sent to Hardy. I'm currently studying Electronics and Communications Engineering at BITS Pilani, although my interests vary. I hope you learn something from my experiences!
 
 ![](thumbnail.jpg)
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+Filler image, for testing :)
