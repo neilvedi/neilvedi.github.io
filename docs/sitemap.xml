@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://neilvedi.github.io/index.html</loc>
-    <lastmod>2023-11-30T09:04:20.415Z</lastmod>
+    <lastmod>2023-12-06T14:02:33.853Z</lastmod>
+  </url>
+  <url>
+    <loc>https://neilvedi.github.io/posts/test-post/index.html</loc>
+    <lastmod>2023-12-06T14:02:34.879Z</lastmod>
   </url>
 </urlset>
