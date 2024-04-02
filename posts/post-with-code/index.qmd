@@ -1,13 +1,11 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
-date: "2023-08-17"
-categories: [news, code, analysis]
+title: "Coming soon"
+author: "Neil Vedi"
+date: "2024-04-02"
+categories: [meta]
 image: "image.jpg"
 ---
 
-This is a post with executable code.
+Hi! This is starshipNeil. This a basic first post on my new blog! What will I be blogging about? Math, quantitative finance, infosec, ai/ml, puzzles and related topics. I like stuff that has to do with math, basically - it makes me feel like I\'m using my brain.
 
-```{r}
-1 + 1
-```
+That\'s it for my first post, I\'ll try posting more as soon as I can. I\'m focusing on quality over quantity, although I also believe quantity leads to quality. It\'s a balance I\'ll have to figure out on my own. See you!
