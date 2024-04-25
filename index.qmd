@@ -14,7 +14,7 @@ title-block-banner: true
 
 <div>
 
-Hi! I'm Neil - I'm 20 years old, and I'm currently a junior at BITS Pilani majoring in Electronics and Communications Engineering.
+Hi! I'm Neil - I'm 20 years old, and I'm currently a junior at BITS Pilani majoring in Electronics and Communications Engineering. I've spent the majority of my degree not actually studying my major, and it's a decision I've come to regret - this blog is my attempt to make up for the education I missed out on (though the fault is my own).
 
 </div>
 
