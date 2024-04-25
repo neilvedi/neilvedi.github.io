@@ -10,59 +10,26 @@
 <atom:link href="https://neilvedi.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Neil&#39;s Corner of the Internet</description>
 <generator>quarto-1.3.353</generator>
-<lastBuildDate>Wed, 29 Nov 2023 18:30:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 01 Apr 2024 18:30:00 GMT</lastBuildDate>
 <item>
-  <title>Welcome To My Blog</title>
-  <dc:creator>Neil Chaturvedi</dc:creator>
-  <link>https://neilvedi.github.io/posts/welcome/index.html</link>
+  <title>Coming soon</title>
+  <dc:creator>Neil Vedi</dc:creator>
+  <link>https://neilvedi.github.io/posts/welcome-post/index.html</link>
   <description><![CDATA[ 
 
 
 
 
-<p>Hi! I’m Neil - welcome to my blog! I’ll be sharing my learnings over here - I think blogs are the modern day equivalent of Ramanujan’s notebooks he sent to Hardy. I’m currently studying Electronics and Communications Engineering at BITS Pilani, although my interests vary. I hope you learn something from my experiences!</p>
-<p><img src="https://neilvedi.github.io/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
-<p>Filler image, for testing :)</p>
+<p>Hi! This is starshipNeil. This a basic first post on my new blog! What will I be blogging about? Math, quantitative finance, infosec, ai/ml, puzzles and related topics. I like stuff that has to do with math, basically - it makes me feel like I'm using my brain.</p>
+<p>That's it for my first post, I'll try posting more as soon as I can. I'm focusing on quality over quantity, although I also believe quantity leads to quality. It's a balance I'll have to figure out on my own. See you!</p>
 
 
 
  ]]></description>
   <category>meta</category>
-  <guid>https://neilvedi.github.io/posts/welcome/index.html</guid>
-  <pubDate>Wed, 29 Nov 2023 18:30:00 GMT</pubDate>
-</item>
-<item>
-  <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://neilvedi.github.io/posts/post-with-code/index.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>This is a post with executable code.</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span> <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">+</span> <span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span></span></code></pre></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
-</div>
-</div>
-
-
-
- ]]></description>
-  <category>news</category>
-  <category>code</category>
-  <category>analysis</category>
-  <guid>https://neilvedi.github.io/posts/post-with-code/index.html</guid>
-  <pubDate>Wed, 16 Aug 2023 18:30:00 GMT</pubDate>
-  <media:content url="https://neilvedi.github.io/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://neilvedi.github.io/posts/welcome-post/index.html</guid>
+  <pubDate>Mon, 01 Apr 2024 18:30:00 GMT</pubDate>
+  <media:content url="https://neilvedi.github.io/posts/welcome-post/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
